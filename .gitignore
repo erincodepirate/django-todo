@@ -1,2 +1,6 @@
 mytodo/database.py
 mytodo/secret_key.py
+*.log
+*.pot
+*.pyc
+__pycache__
